@@ -1,0 +1,6 @@
+[submodule "dohands-myhands-be"]
+	path = dohands-myhands-be
+	url = https://github.com/Taboms/dohands-myhands-be.git
+[submodule "myhands-aos"]
+	path = myhands-aos
+	url = https://github.com/Taboms/myhands-aos.git
